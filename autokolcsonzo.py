@@ -1,3 +1,6 @@
+from berles import Berles
+
+
 class Autokolcsonzo:
     def __init__(self, nev):
         self.nev = nev
